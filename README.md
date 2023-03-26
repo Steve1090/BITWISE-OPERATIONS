@@ -51,3 +51,33 @@ i. End.
 ![no of 1s](https://user-images.githubusercontent.com/108262513/227778312-ba812181-9815-438d-b838-df04ce66b612.png)
 
 
+EXPERIMENT-3 (EVEN OR ODD) 
+
+a. Take the input integer n.
+
+b. Perform a bitwise AND operation between n and 1.
+
+c. Check if the result is equal to 0.
+
+d. If the result is equal to 0, then n is even. Otherwise, n is odd.
+
+e. End
+
+![BIT ODD EVEN](https://user-images.githubusercontent.com/108262513/227791507-3f98e3d1-81f6-4750-97e2-041db1a3c9d6.png)
+
+
+EXPERIMENT-4 (INT TO BINARY)
+
+a. Take the input integer n.
+
+b. Iterate over the 5 bits of n, starting from the most significant bit and ending with the least significant bit.
+
+c. For each bit, right-shift n by the current bit index using the >> operator we're interested in the least significant position.
+
+d. Perform a bitwise AND operation between the shifted number and the value 1 to isolate the least significant bit.
+
+e. If the least significant bit is 1, print a "1" character. Otherwise, print a "0" character.
+
+f. Continue iterating until all 5 bits have been processed.
+
+![INT TO BIN](https://user-images.githubusercontent.com/108262513/227791465-911bdf95-bb7d-4c25-a917-fa03ff885e8f.png)
