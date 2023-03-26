@@ -23,7 +23,9 @@ i. Display the result of the bitwise OR operation using printf() and similarly f
 j. End the program. 
 
 OR- ![or op](https://user-images.githubusercontent.com/108262513/227780941-a99e87bb-946c-4f7e-a1a1-bd8c7dc937f7.png)
+
 AND- ![AND OP](https://user-images.githubusercontent.com/108262513/227780963-b27c2cb9-2c14-4773-86a6-279a7c7ef1e8.png)
+
 EX-OR -  ![EX-OR ](https://user-images.githubusercontent.com/108262513/227781071-4cd75dfd-ca98-4713-9cfe-80498c7952ae.png)
 
 EXPERIMENT-2 (NO.OF 1S) 
