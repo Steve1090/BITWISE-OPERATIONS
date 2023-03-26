@@ -1,6 +1,6 @@
 # BITWISE-OPERATIONS
 
-EXPERIMENT-4 (BITWISE OR, AND , EX-OR)
+EXPERIMENT-1 (BITWISE OR, AND , EX-OR)
 
 a. Start the program.
 
@@ -22,7 +22,7 @@ i. Display the result of the bitwise OR operation using printf() and similarly f
 
 j. End the program. 
 
-EXPERIMENT-5 (NO.OF 1S) 
+EXPERIMENT-2 (NO.OF 1S) 
 
 a. Start.
 
